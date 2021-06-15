@@ -45,7 +45,7 @@ h2 {
   margin: 10px 0 0 0;
   padding: 0;
   font-weight: bold;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Abel', sans-serif;
 }
 
 h3 {
@@ -53,7 +53,7 @@ h3 {
   margin: 10px 0 0 0;
   padding: 0;
   font-weight: bold;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Abel', Helvetica, Arial, sans-serif;
 }
 
 ul,
@@ -100,7 +100,7 @@ hr {
 }
 
 .menu-highlight {
-  color: rgb(255, 255, 255) !important;
+  color: #f3f3f3 !important;
   opacity: 1 !important;
   font-weight: 700 !important;
 }
@@ -110,8 +110,8 @@ hr {
 }
 
 .logo a {
-  color: rgba(255, 255, 255, 0.8);
-  font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif;
+  color: rgba(243, 243, 243, 0.8);
+  font-family: 'Abel', sans-serif;
   font-size: 30px;
   text-decoration: none;
   font-weight: 700;
@@ -132,7 +132,7 @@ hr {
 }
 
 .menu-items a {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(243, 243, 243 0.8);
   text-decoration: none;
   font-weight: 400;
   font-size: 18px;
@@ -140,7 +140,7 @@ hr {
   transition: opacity 0.1s ease-in-out;
   -moz-transition: opacity 0.1s ease-in-out;
   -webkit-transition: opacity 0.1s ease-in-out;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Abel', sans-serif;
   white-space: nowrap;
 }
 
@@ -149,7 +149,7 @@ hr {
 }
 
 .menu-items a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(243, 243, 243);
   opacity: 1;
 }
 
@@ -164,7 +164,7 @@ hr {
   position: relative;
   margin: 0 auto;
   font-size: 16px;
-  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
   font-weight: 300;
   line-height: 1.5;
   max-width: 900px;
