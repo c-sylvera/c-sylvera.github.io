@@ -11,7 +11,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #ffffff0;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Libre Franklin', sans-serif;
   left: 0;
   right: 0;
   width: auto;
@@ -45,7 +45,7 @@ h2 {
   margin: 10px 0 0 0;
   padding: 0;
   font-weight: bold;
-  font-family: 'Abel', sans-serif;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 h3 {
@@ -100,7 +100,7 @@ hr {
 }
 
 .menu-highlight {
-  color: #f3f3f3 !important;
+  color: rgb(243, 243, 243) !important;
   opacity: 1 !important;
   font-weight: 700 !important;
 }
