@@ -100,7 +100,7 @@ hr {
 }
 
 .menu-highlight {
-  color: rgb(255, 255, 255) !important;
+  color: rgb(255, 255, 240) !important;
   opacity: 1 !important;
   font-weight: 700 !important;
 }
@@ -110,7 +110,7 @@ hr {
 }
 
 .logo a {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(255, 255, 240, 0.8);
   font-family: 'Abel', sans-serif;
   font-size: 30px;
   text-decoration: none;
@@ -132,7 +132,7 @@ hr {
 }
 
 .menu-items a {
-  color: rgba(243, 243, 243, 0.8);
+  color: rgba(255, 255, 240, 0.8);
   text-decoration: none;
   font-weight: 400;
   font-size: 18px;
@@ -149,7 +149,7 @@ hr {
 }
 
 .menu-items a:hover {
-  color: rgb(255, 255, 255);
+  color: rgb(255, 255, 240);
   opacity: 1;
 }
 
