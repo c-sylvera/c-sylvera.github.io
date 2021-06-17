@@ -52,5 +52,7 @@ ul li::before {
 } 
 
 h1 {
- font-family: 'Abel', sans-serif; 
+ font-family: 'Abel', sans-serif;
+  font-size: 30px;
+ color: #316a93; 
 }
