@@ -52,12 +52,11 @@ ul li::before {
 }  
 
 ol {
- list-style: none; 
+ list-style-type: upper-roman; 
 }
 
 ol li::before { 
- list-style-type: upper-roman;
- color: #316a93; 
+  color: #316a93; 
   font-weight: normal;
   width: 1em;
   margin-left: -1em;
