@@ -47,12 +47,20 @@ ul li::before {
   color: #316a93; /* Change the color to curious blue */
   font-weight:  bold; /* "bold" If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
-  width: 2em; /* Also needed for space (tweak if needed) */
+  width: 1em; /* Also needed for space (tweak if needed) */
   margin-left: -1em; /* Also needed for space (tweak if needed) */
 }  
 
-ol li::before {
+ol {
+ list-style: none; 
+}
+
+ol li::before { 
+ list-style-type: upper-roman;
  color: #316a93; 
+  font-weight: normal;
+  width: 1em;
+  margin-left: -1em;
 }
 
 h1 {
