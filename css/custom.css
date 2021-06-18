@@ -66,4 +66,9 @@ h1 {
  font-family: 'Abel', sans-serif;
   font-size: 36px;
  color: #316a93; 
-}
+} 
+
+iframe { 
+  margin-left: auto;   /* Automatic margin from left */ 
+  margin-right: auto; /* Automatic margin from right */ 
+}  
