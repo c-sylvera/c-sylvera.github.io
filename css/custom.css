@@ -7,6 +7,11 @@
   border-radius: 80%;
 }
 
+#cregg_headshot1 {
+  width: 200px;
+  border-radius: 90%
+}
+
 .custom-dropdown {
   width: 240px;
 }
