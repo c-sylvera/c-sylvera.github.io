@@ -78,9 +78,9 @@ h1 {
 
 h2 {
  font-family: 'Abel', sans-serif;
-  font-size: 28px;
- /* color: #316a93; */
-  color: #000000;
+  font-size: 24px;
+ color: #316a93; 
+ /* color: #000000; */
 } 
 iframe { 
   margin-left: auto;   /* Automatic margin from left */ 
