@@ -35,11 +35,11 @@
 }  
 
 /* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+/*.row:after { */
+/*  content: ""; */
+/*  display: table; */
+/*  clear: both; */
+/* } */
 #dialog-1,
 #dialog-2,
 #dialog-3,
