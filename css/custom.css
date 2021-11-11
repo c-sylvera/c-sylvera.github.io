@@ -22,16 +22,15 @@
 
 .column {
   float: left;
-  width: 70%;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.left {
+  width: 25%;
 }
-  
+
+.right {
+  width: 75%;
+}  
 
 #dialog-1,
 #dialog-2,
