@@ -20,18 +20,26 @@
   width: 240px;
 } 
 
+/* Create two unequal columns that floats next to each other */
 .column {
   float: left;
+  padding: 10px;
 }
 
 .left {
-  width: 25%;
+  width: 70%;
 }
 
 .right {
-  width: 75%;
+  width: 30%;
 }  
 
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 #dialog-1,
 #dialog-2,
 #dialog-3,
